@@ -2,7 +2,7 @@
 
 This repo made for detection cars, trucks and motorcycles using with highway traffic cameras video examples.
 It created for small systems, it has not need deep learning algorithms, machine learning methods or large traffic cameras video datasets.
-I have run this project on my own computer. 1920x1080 resolution executed with good performance. Also, small video files have executed
+I have run this project on my own computer. 1920x1080 resolution executed with good performance. Also, small resolution video files have executed
 more effective and fast. 
 
 *Car Detection using With MATLAB has not reach to %100 accuracy. But it performs good performance on small systems and executed with quick debug and process time.*
@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1qcnQ4bXVvOcKbETRIP9dAdW0x_BFyJR5/view?usp=shari
 
 
   
-![Alt Text](https://media.giphy.com/media/9q7hQNisW4yczgttiv/giphy.gif?cid=790b7611b04b0d70893d1223546a3be6ccc901999d599963&rid=giphy.gif&ct=g)
+[![ezgif.com-gif-maker-885aa37d72d4e2846.md.gif](https://s9.gifyu.com/images/ezgif.com-gif-maker-885aa37d72d4e2846.md.gif)](https://gifyu.com/image/JCET)
 
 
 
@@ -33,8 +33,7 @@ https://drive.google.com/file/d/1qcnQ4bXVvOcKbETRIP9dAdW0x_BFyJR5/view?usp=shari
 ## Demo 2
 
 
-![Alt Text](https://media.giphy.com/media/E7o6zd0v8PJe5xBZ0p/giphy-downsized.gif?cid=790b7611340b2c3319066ce8d51527a30b6e6ec3649f9a45&rid=giphy-downsized.gif&ct=g)
-
+[![ezgif.com-gif-maker-795482c14893a2368.md.gif](https://s9.gifyu.com/images/ezgif.com-gif-maker-795482c14893a2368.md.gif)](https://gifyu.com/image/JCk3)
 
 
 
