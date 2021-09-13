@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1qcnQ4bXVvOcKbETRIP9dAdW0x_BFyJR5/view?usp=shari
 
 
   
-![new](https://media.giphy.com/media/E7o6zd0v8PJe5xBZ0p/giphy-downsized.gif?cid=790b761139155b14801a8f7870427edfd8bb46a5ddfefed3&rid=giphy-downsized.gif&ct=g)
+![new](https://media.giphy.com/media/Yd4PH8NZAVkiCpXcQ8/source.gif?cid=790b7611cf96c07e09c4546cd5ecc3eb4e652855625a15a5&rid=source.gif&ct=g)
 
 
 
