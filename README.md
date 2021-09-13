@@ -25,15 +25,15 @@ https://drive.google.com/file/d/1qcnQ4bXVvOcKbETRIP9dAdW0x_BFyJR5/view?usp=shari
 
 
   
-[![ezgif.com-gif-maker-885aa37d72d4e2846.md.gif](https://s9.gifyu.com/images/ezgif.com-gif-maker-885aa37d72d4e2846.md.gif)](https://gifyu.com/image/JCET)
+![new](https://media.giphy.com/media/E7o6zd0v8PJe5xBZ0p/giphy-downsized.gif?cid=790b761139155b14801a8f7870427edfd8bb46a5ddfefed3&rid=giphy-downsized.gif&ct=g)
+
 
 
 
 
 ## Demo 2
 
-
-[![ezgif.com-gif-maker-795482c14893a2368.md.gif](https://s9.gifyu.com/images/ezgif.com-gif-maker-795482c14893a2368.md.gif)](https://gifyu.com/image/JCk3)
+![new](https://media.giphy.com/media/9q7hQNisW4yczgttiv/giphy.gif?cid=790b761166d4ba781a9e092cffda5392ca092634424caf71&rid=giphy.gif&ct=g)
 
 
 
