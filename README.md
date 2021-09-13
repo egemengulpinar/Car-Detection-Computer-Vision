@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1qcnQ4bXVvOcKbETRIP9dAdW0x_BFyJR5/view?usp=shari
 
 
   
-![Alt Text](https://media.giphy.com/media/E7o6zd0v8PJe5xBZ0p/source.gif?cid=790b7611fe05696ba38799f85c409976c54ecbc82b9b1628&rid=source.gif&ct=g)
+![Alt Text](https://media.giphy.com/media/9q7hQNisW4yczgttiv/giphy.gif?cid=790b7611b04b0d70893d1223546a3be6ccc901999d599963&rid=giphy.gif&ct=g)
 
 
 
@@ -33,7 +33,7 @@ https://drive.google.com/file/d/1qcnQ4bXVvOcKbETRIP9dAdW0x_BFyJR5/view?usp=shari
 ## Demo 2
 
 
-![Alt Text](https://media.giphy.com/media/9q7hQNisW4yczgttiv/source.gif?cid=790b7611b04b0d70893d1223546a3be6ccc901999d599963&rid=source.gif&ct=g)
+![Alt Text](https://media.giphy.com/media/E7o6zd0v8PJe5xBZ0p/giphy-downsized.gif?cid=790b7611340b2c3319066ce8d51527a30b6e6ec3649f9a45&rid=giphy-downsized.gif&ct=g)
 
 
 
